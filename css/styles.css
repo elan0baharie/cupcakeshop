@@ -1,0 +1,40 @@
+h1 {
+  color: #eac9ab;
+  font-family: cursive;
+  font-weight: 200;
+  font-size: 45px;
+  text-align: center;
+  background-color: #7c5d40;
+  width: 70%;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+body {
+  background-color: #c16e99;
+}
+img.menu {
+  width: 30%;
+}
+img.chef {
+  width:30%;
+  height:30%;
+}
+p.intro_text {
+  width: 60%;
+  text-align: center;
+}
+.home_icon {
+  width: 10%;
+}
+
+.best {
+  color: #e2d3db;
+  border-color: #e2d3db;
+  border-width: 2px;
+  border-style: solid;
+  width: 20%;
+}
